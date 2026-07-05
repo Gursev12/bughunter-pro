@@ -14,7 +14,7 @@ Features
 ⚡ Multi-threaded Scanning
 🎯 Easy-to-use Command Line Interface
 Installation
-git clone https://github.com/YOUR_USERNAME/bughunter-pro.git
+git clone https://github.com/Gursev12/bughunter-pro.git
 cd bughunter-pro
 
 python3 -m venv venv
